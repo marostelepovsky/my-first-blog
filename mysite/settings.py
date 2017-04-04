@@ -25,7 +25,7 @@ SECRET_KEY = '^apw_=veotjnua#^^sp^r0i%(=-kpcw*c3c1q(vk*+2vig0sfo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['maros.pythonanywhere.com']
 
 
 # Application definition
